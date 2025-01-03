@@ -1,7 +1,9 @@
 # Loan-Application-Predictor
 A loan application is used by borrowers to apply for a loan. Through the loan application, borrowers reveal key details about their finances to the lender. The loan application is crucial to determine whether the lender will grant the request for funds or credit. The data for training and testing has been taken from a CSV file that can be accessed using the link:
+
 For training: "https://raw.githubusercontent.com/dphi-official/Datasets/master/Loan_Data/loan_train.csv".
 For testing: "https://raw.githubusercontent.com/dphi-official/Datasets/master/Loan_Data/loan_test.csv"
+
 The different types of variables in the dataset are Categorical, ordinal, and numerical.
 -Categorical features: These features have categories (Gender, Married, Self_Employed, Credit_History, Loan_Status) -Ordinal features: Variables in categorical features having some order involved (Dependents, Education, Property_Area) -Numerical features: These features have numerical values (ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term)
 All these features are analyzed in detail using various plots to get insights.
